@@ -3,6 +3,7 @@
 - I am a Product Manager building AI systems for computer vision, retail operations, and asymmetric multiplayer experiences.
 - This is my personal account for AI evaluation, workflow automation, MCP experiments, product strategy prototypes, and game systems design.
 - I like turning ambiguous workflows into structured prototypes, clear product bets, and measurable evaluation loops.
+- You can find me on [LinkedIn](https://www.linkedin.com/in/murthy-bhavaraju/).
 
 ## Featured Work
 
